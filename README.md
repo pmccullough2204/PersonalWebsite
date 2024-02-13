@@ -1,4 +1,4 @@
 # PersonalWebsite
 
-# Repository Created
-- Start 2/13/2024
+## Updates
+* Repo Created (2/13/2024)
